@@ -1,0 +1,14 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment/config
+*.env
+.env/
+
+# API keys (avoid committing secrets)
+apikeys.json
+*API_key*
