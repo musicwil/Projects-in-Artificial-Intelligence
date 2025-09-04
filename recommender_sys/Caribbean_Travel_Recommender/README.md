@@ -39,9 +39,12 @@ google-genai==1.7.0
 google-api-core
 numpy
 scikit-learn
-ipython
+ipython```
+
+---
 
 ## 5. How to use
+
 git clone https://github.com/musicwil/Projects-in-Artificial-Intelligence.git
 cd Projects-in-Artificial-Intelligence/recommender_sys/Caribbean_Travel_Recommender
 Install the required dependencies:
@@ -50,6 +53,8 @@ Open the notebook:
 jupyter notebook Caribbean_Travel_Recommender.ipynb
 Run all cells in order.
 Generated descriptions and visuals will appear directly in the notebook and be stored in the assets/ folder.
+
+---
 
 ## 6. Repository Structure
 
@@ -62,24 +67,33 @@ Caribbean_Travel_Recommender/
 ├── LICENSE                              # MIT license
 └── README.md                            # Project documentation
 
+---
+
 ## 7. Assets
 caribbean_beach_couple.png
 A realistically generated Caribbean beach scene with a couple running happily along the shore, used for illustrative purposes in the notebook.
 
+---
+
 ## 8. How to Contribute
+
 Contributions are welcome!
-
 Fork the repository.
-
 Create a new branch for your feature (git checkout -b feature/YourFeature).
-
 Commit and push your changes.
-
 Open a Pull Request for review.
 
+---
+
 ## 9. License
+
 This project is licensed under the MIT License — see the LICENSE file for details.
 
+---
+
 ## 10. Author
+
 Will Contreras
 Developed during the Google Gen AI Intensive Capstone Project.
+
+---
