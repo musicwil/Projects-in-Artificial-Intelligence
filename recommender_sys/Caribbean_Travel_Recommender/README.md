@@ -39,7 +39,7 @@ google-genai==1.7.0
 google-api-core
 numpy
 scikit-learn
-ipython```
+ipython
 
 ---
 
@@ -56,7 +56,7 @@ Generated descriptions and visuals will appear directly in the notebook and be s
 
 ---
 
-## 6. Repository Structure
+6. Repository Structure
 
 Caribbean_Travel_Recommender/
 ├── Caribbean_Travel_Recommender.ipynb   # Main notebook
