@@ -1,0 +1,29 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.egg-info/
+*.eggs/
+*.dist-info/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data artifacts (keep repo light)
+data/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak

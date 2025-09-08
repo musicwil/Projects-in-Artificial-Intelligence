@@ -1,0 +1,10 @@
+## 4. Dependencies
+- Python 3.x  
+- Jupyter  
+- ipykernel  
+- openai or azure-ai-openai  
+- tiktoken  
+- tavily-python  
+- IPython  
+- session_info  
+- textwrap
