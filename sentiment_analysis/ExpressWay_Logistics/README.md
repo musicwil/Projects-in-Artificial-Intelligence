@@ -44,19 +44,19 @@ pip install -r requirements.txt
 
 ## 5. How to Use
 
-# Clone the umbrella repo and enter the project folder
+### Clone the umbrella repo and enter the project folder
 git clone https://github.com/musicwil/Projects-in-Artificial-Intelligence.git
 cd Projects-in-Artificial-Intelligence/sentiment_analysis/ExpressWay_Logistics
 
-# (Optional) create a venv, then install deps
+### (Optional) create a venv, then install deps
 # python -m venv .venv && source .venv/Scripts/activate
 pip install -r requirements.txt
 
-# Set Azure OpenAI keys
+### Set Azure OpenAI keys
 export AZURE_OPENAI_API_KEY=...
 export AZURE_OPENAI_ENDPOINT=...
 
-# Open the notebook
+### Open the notebook
 jupyter notebook "ExpressWayLogistics.ipynb"
 
 
