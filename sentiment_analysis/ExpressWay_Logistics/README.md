@@ -42,6 +42,7 @@ pip install -r requirements.txt
 
 ## 5. How to Use
 
+```bash
 # Clone the umbrella repo and enter the project folder
 git clone https://github.com/musicwil/Projects-in-Artificial-Intelligence.git
 cd Projects-in-Artificial-Intelligence/sentiment_analysis/ExpressWay_Logistics
@@ -55,8 +56,10 @@ export AZURE_OPENAI_API_KEY=...
 export AZURE_OPENAI_ENDPOINT=...
 
 # Open the notebook
-jupyter notebook "ExpressWayLogistics .ipynb"
+jupyter notebook "ExpressWayLogistics.ipynb"
 
+
+```markdown
 ## 6. Repository Structure
 
 ```text
@@ -70,13 +73,10 @@ Projects-in-Artificial-Intelligence/
         ├── README.md
         ├── requirements.txt
         ├── .gitignore
-        ├── ExpressWayLogistics .ipynb
+        ├── ExpressWayLogistics.ipynb
         └── assets/
-            ├── ExpressWay Logistics.png
+            ├── ExpressWayLogistics.png
             └── courier-service_reviews.csv
-```
-
-
 
 
 ## 7. Assets
