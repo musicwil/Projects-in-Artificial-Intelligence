@@ -42,7 +42,6 @@ pip install -r requirements.txt
 
 ## 5. How to Use
 
-```bash
 # Clone the umbrella repo and enter the project folder
 git clone https://github.com/musicwil/Projects-in-Artificial-Intelligence.git
 cd Projects-in-Artificial-Intelligence/sentiment_analysis/ExpressWay_Logistics
@@ -59,7 +58,6 @@ export AZURE_OPENAI_ENDPOINT=...
 jupyter notebook "ExpressWayLogistics.ipynb"
 
 
-```
 
 ## 6. Repository Structure
 
