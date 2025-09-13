@@ -49,7 +49,7 @@ git clone https://github.com/musicwil/Projects-in-Artificial-Intelligence.git
 cd Projects-in-Artificial-Intelligence/sentiment_analysis/ExpressWay_Logistics
 
 ### (Optional) create a venv, then install deps
-# python -m venv .venv && source .venv/Scripts/activate
+### python -m venv .venv && source .venv/Scripts/activate
 pip install -r requirements.txt
 
 ### Set Azure OpenAI keys
