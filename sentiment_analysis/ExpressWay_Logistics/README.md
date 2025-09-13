@@ -58,9 +58,9 @@ export AZURE_OPENAI_ENDPOINT=...
 # Open the notebook
 jupyter notebook "ExpressWayLogistics.ipynb"
 
+
 ```
 
-```markdown
 ## 6. Repository Structure
 
 ```text
