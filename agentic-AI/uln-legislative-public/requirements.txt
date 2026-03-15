@@ -1,0 +1,9 @@
+google-adk[extensions]>=1.27.1
+google-auth>=2.47.0
+litellm>=1.82.1
+anthropic
+openai
+fastmcp>=3.1.1
+nest-asyncio>=1.6.0
+pydantic>=2.10.0
+uvicorn>=0.41.0
